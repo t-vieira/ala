@@ -6,8 +6,3 @@ Controle para Alas SUD de discursantes e outras informações não disponíveis 
 <<<<<<< HEAD
 
 Sistema em desenvolvimento.
-=======
->>>>>>> 74b4984e7171b5b3f9ba394f1ecafcc1c7d938a3
-=======
-Ala
->>>>>>> 1e904f2e5b82eecf981fff8635759fa971bd7582
