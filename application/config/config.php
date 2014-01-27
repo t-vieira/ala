@@ -69,7 +69,11 @@ $config['url_suffix'] = '';
 | than english.
 |
 */
+<<<<<<< HEAD
 $config['language']	= 'portuguese-br';
+=======
+$config['language']	= 'english';
+>>>>>>> 19936c7a35fea5825f63850f02588b3a0d4454bd
 
 /*
 |--------------------------------------------------------------------------
