@@ -10,6 +10,7 @@
 		<link href="<?php echo base_url(); ?>assets/css/sb-admin.css" rel="stylesheet" />
 		<link href="<?php echo base_url(); ?>assets/css/chosen.css" rel="stylesheet" />
 		<link href="<?php echo base_url(); ?>assets/css/prism.css" rel="stylesheet" />
+		<link href="<?php echo base_url(); ?>assets/css/datepicker3.css" rel="stylesheet" />
 		
 		<script src="<?php echo base_url(); ?>assets/js/jquery-1.10.2.js"></script>
 		<script src="<?php echo base_url(); ?>assets/js/bootstrap.min.js"></script>
@@ -19,6 +20,8 @@
    		<script src="<?php echo base_url(); ?>assets/js/sb-admin.js"></script>
    		<script src="<?php echo base_url(); ?>assets/js/chosen.jquery.js"></script>
    		<script src="<?php echo base_url(); ?>assets/js/prism.js"></script>
+   		<script src="<?php echo base_url(); ?>assets/js/bootstrap-datepicker.js"></script>
+   		<script src="<?php echo base_url(); ?>assets/js/datepicker-locales/bootstrap-datepicker.pt-BR.js"></script>
 
 		
 	</head>
@@ -43,7 +46,7 @@
 							<a href="#"><i class="fa fa-users fa-fw"></i> <?php echo lang('members'); ?><span class="fa arrow"></span></a>
 							<ul class="nav nav-second-level">
 								<li>
-									<a href="#"><?php echo lang('register'); ?></a>
+									<a href="<?php echo base_url(); ?>membros/registrar"><?php echo lang('register'); ?></a>
 								</li>
 								<li>
 									<a href="#"><?php echo lang('visualize'); ?></a>
@@ -54,13 +57,16 @@
 							<a href="#"><i class="fa fa-comment fa-fw"></i> <?php echo lang('speeches'); ?><span class="fa arrow"></span></a>
 							<ul class="nav nav-second-level">
 								<li>
-									<a href="#"><?php echo lang('register'); ?></a>
+									<a href="<?php echo base_url(); ?>discursos/registrar"><?php echo lang('register'); ?></a>
 								</li>
 								<li>
 									<a href="#"><?php echo lang('visualize'); ?></a>
 								</li>
 								<li>
 									<a href="#"><?php echo lang('edit'); ?></a>
+								</li>
+								<li>
+									<a href="#"><?php echo lang('formerRanters'); ?></a>
 								</li>
 							</ul>
 						</li>

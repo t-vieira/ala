@@ -2,6 +2,12 @@
 
 class Membros_model extends CI_Model
 {
+	public function retornarTodosMembros()
+	{
+		$this->db->order_by('nomeMembro', 'asc');
+		return $this->db->get('Membros')->result();
+	}
+	
 	public function retornarMembroPorId($id)
 	{
 		$this->db->where('idMembro', $id);
@@ -16,11 +22,23 @@ class Membros_model extends CI_Model
 		return $this->db->get('Membros', 10)->result();
 	}
 	
-	public function discursantesMaisAntigos()
+	public function salvar($post)
 	{
-		$this->db->order_by('dataDiscurso', 'desc');
+		$this->db->select('nomeMembro');
+		$this->db->where('nomeMembro', $post['nomeMembro']);
+		$resultado = $this->db->get('Membros')->result();
 		
-		return $this->db->get('Discursos', 10)->result();
+		if (!$resultado) {
+			
+			$this->db->insert('Membros', $post);
+			
+			return true;
+			
+		} else {
+			
+			return false;
+			
+		}
 	}
 }
 
