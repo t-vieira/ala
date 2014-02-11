@@ -49,7 +49,7 @@ class Index extends CI_Controller
 	
 	public function discursantesMaisAntigos()
 	{
-		$discursantesAntigos = $this->Discursos_model->discursantesMaisAntigos();
+		$discursantesAntigos = $this->Discursos_model->discursantesMaisAntigos(10);
 		
 		$divDiscursantesMaisAntigos = '';
 		

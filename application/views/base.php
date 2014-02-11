@@ -4,13 +4,14 @@
 	
 		<title><?php echo lang('controlWard'); ?> - <?php echo lang('churchName'); ?></title>
 		
-		<link href="<?php echo base_url(); ?>assets/css/bootstrap.min.css" rel="stylesheet" />
+		<link href="<?php echo base_url(); ?>assets/css/bootstrap.css" rel="stylesheet" />
 		<link href="<?php echo base_url(); ?>assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
 		<link href="<?php echo base_url(); ?>assets/css/plugins/morris/morris-0.4.3.min.css" rel="stylesheet" />
 		<link href="<?php echo base_url(); ?>assets/css/sb-admin.css" rel="stylesheet" />
 		<link href="<?php echo base_url(); ?>assets/css/chosen.css" rel="stylesheet" />
 		<link href="<?php echo base_url(); ?>assets/css/prism.css" rel="stylesheet" />
 		<link href="<?php echo base_url(); ?>assets/css/datepicker3.css" rel="stylesheet" />
+		<link href="<?php echo base_url(); ?>assets/css/plugins/dataTables/dataTables.bootstrap.css" rel="stylesheet" />
 		
 		<script src="<?php echo base_url(); ?>assets/js/jquery-1.10.2.js"></script>
 		<script src="<?php echo base_url(); ?>assets/js/bootstrap.min.js"></script>
@@ -22,6 +23,10 @@
    		<script src="<?php echo base_url(); ?>assets/js/prism.js"></script>
    		<script src="<?php echo base_url(); ?>assets/js/bootstrap-datepicker.js"></script>
    		<script src="<?php echo base_url(); ?>assets/js/datepicker-locales/bootstrap-datepicker.pt-BR.js"></script>
+   		<script src="<?php echo base_url(); ?>assets/js/bootstrap-datepicker.js"></script>
+   		<script src="<?php echo base_url(); ?>assets/js/plugins/dataTables/dataTables.bootstrap.js"></script>
+   		<script src="<?php echo base_url(); ?>assets/js/plugins/dataTables/jquery.dataTables.js"></script>
+   		<script src="<?php echo base_url(); ?>assets/js/plugins/dataTables/bootstrap-dataTables-paging.js"></script>
 
 		
 	</head>
@@ -60,13 +65,13 @@
 									<a href="<?php echo base_url(); ?>discursos/registrar"><?php echo lang('register'); ?></a>
 								</li>
 								<li>
-									<a href="#"><?php echo lang('visualize'); ?></a>
-								</li>
-								<li>
 									<a href="#"><?php echo lang('edit'); ?></a>
 								</li>
 								<li>
 									<a href="#"><?php echo lang('formerRanters'); ?></a>
+								</li>
+								<li>
+									<a href="<?php echo base_url(); ?>discursos/todosDiscursantes"><?php echo lang('allSpeeches'); ?></a>
 								</li>
 							</ul>
 						</li>
