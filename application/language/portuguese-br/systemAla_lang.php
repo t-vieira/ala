@@ -20,6 +20,10 @@ $lang['rantersOldest'] = 'Discursantes Mais Antigos';
 $lang['lastMembersRegistered'] =  '&Uacute;ltimos Membros Registrados';
 $lang['formerRanters'] = 'Discursantes Antigos';
 $lang['allSpeeches'] = 'Todos os Discursantes';
+$lang['thoughts'] = 'Pensamentos';
+$lang['allThoughts'] = 'Todos os Pensamentos';
+$lang['authors'] = 'Autores';
+$lang['allAuthors'] = 'Todos os Autores';
 
 // Labels -------------------------------------------------------------------------------------------------------------
 $lang['labelMemberName'] = 'Nome do Membro';
@@ -36,5 +40,6 @@ $lang['alertSuccessRegisterMember'] = 'Membro Cadastrado com Sucesso!';
 $lang['alertWarningMemberAlreadyExist'] = 'Membro j&aacute; cadastrado. Cadastre outro.';
 $lang['alertSuccessRegisterSpeeche'] = 'Discurso Cadastrado com Sucesso!';
 $lang['alertWarningSpeecheAlreadyExist'] = 'Discurso j&aacute; cadastrado. Cadastre outro.';
+$lang['alertErrorLogin'] = 'E-mail ou senha inv&aacute;lidos. Tente novamente.';
 
 ?>

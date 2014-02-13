@@ -18,7 +18,7 @@
 						<?php echo form_open(); ?>
 							<div class="form-group">
 								<label><?php echo lang('labelMemberName'); ?></label>
-								<select name="nomeMembro" id="selectMembro" class="form-control" data-placeholder="Escolha um membro...">
+								<select name="nomeMembro" id="selectMembro" class="form-control" data-placeholder="Escolha um membro..." autofocus>
 									<?php echo $optionTodosMembros; ?>
 								</select>
 							</div>

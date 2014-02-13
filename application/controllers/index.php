@@ -3,16 +3,19 @@
 class Index extends CI_Controller
 {
 	public function __construct()
-	{
+	{		
 		parent::__construct();
 		
 		$this->load->helper('language');
+		
+		$this->load->library('parser');
 		
 		$this->load->language('systemAla', 'portuguese-br');
 		
 		$this->load->helper('datas');
 		
 		$this->load->model('Membros_model');
+		
 		$this->load->model('Discursos_model');
 	}
 	
@@ -23,13 +26,20 @@ class Index extends CI_Controller
 		$data['view'] = 'index';
 		$data['divUltimosMembros'] = $this->ultimosMembros();
 		$data['divDiscursantesMaisAntigos'] = $this->discursantesMaisAntigos();
+		$data['usuarioSessao'] = $this->session->userdata('logado');
 		
 		return $data;
 	}
 	
 	public function index()
 	{				
-		$this->load->view('base', $this->variaveis());
+		if (!$this->session->userdata('logado')) {
+			
+			redirect('login', 'refresh');
+			
+		}
+	
+		$this->parser->parse('base', $this->variaveis());
 	}
 	
 	public function ultimosMembros()

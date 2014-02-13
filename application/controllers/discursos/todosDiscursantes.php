@@ -27,7 +27,13 @@ class Todosdiscursantes extends CI_Controller
 	}
 	
 	public function index()
-	{		
+	{
+		if (!$this->session->userdata('logado')) {
+			
+			redirect('login', 'refresh');
+			
+		}
+				
 		$this->load->view('base', $this->variaveis());
 	}
 	

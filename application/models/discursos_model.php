@@ -2,14 +2,18 @@
 
 class Discursos_model extends CI_Model
 {
-	public function discursantesMaisAntigos($limite = null)
+	public function discursantesMaisAntigos($limite = null, $offset = null)
 	{
 		$this->db->group_by('membroId');
 		$this->db->order_by('dataDiscurso', 'asc');
 		
 		if ($limite != null) {
 			
-			return $this->db->get('Discursos', $limite)->result();
+			if ($offset != null) {
+				return $this->db->get('Discursos', $limite, $offset)->result();
+			} else {
+				return $this->db->get('Discursos', $limite)->result();
+			}			
 			
 		} else {
 			
@@ -24,6 +28,14 @@ class Discursos_model extends CI_Model
 		$this->db->order_by('dataDiscurso', 'desc');
 		
 		return $this->db->get('Discursos')->result();
+	}
+	
+	public function contarDiscursantesAntigos()
+	{
+		$this->db->group_by('membroId');
+		$this->db->order_by('dataDiscurso', 'asc');
+		
+		return $this->db->get('Discursos')->num_rows();
 	}
 	
 	public function salvar($post)

@@ -36,9 +36,24 @@
 		<div id="wrapper">
 			
 			<nav class="navbar navbar-default navbar-static-top" style="margin-bottom: 0">
+			
 				<div class="navbar-header">
 					<a class="navbar-brand" href="<?php echo base_url(); ?>"><?php echo lang('controlWard'); ?></a>
 				</div>
+				
+				<ul class="nav navbar-top-links navbar-right">
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+							<i class="fa fa-user fa-fw"></i> <i class="fa fa-caret-down"></i>
+						</a>
+						<ul class="dropdown-menu dropdown-user">
+							<li><a href="#"><i class="fa fa-user fa-fw"></i> <?=$usuarioSessao['nomeUsuario']; ?></a></li>
+							<li class="divider"></li>
+							<li><a href="<?=base_url();?>login/logout"><i class="fa fa-sign-out fa-fw"></i> Sair</a>
+						</ul>
+					</li>
+				</ul>
+				
 			</nav>
 			
 			<nav class="navbar-default navbar-static-side">
@@ -68,10 +83,32 @@
 									<a href="#"><?php echo lang('edit'); ?></a>
 								</li>
 								<li>
-									<a href="#"><?php echo lang('formerRanters'); ?></a>
+									<a href="<?php echo base_url(); ?>discursos/discursantesAntigos"><?php echo lang('formerRanters'); ?></a>
 								</li>
 								<li>
 									<a href="<?php echo base_url(); ?>discursos/todosDiscursantes"><?php echo lang('allSpeeches'); ?></a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="#"><i class="fa fa-smile-o fa-fw"></i> <?=lang('authors');?><span class="fa arrow"></span></a>
+							<ul class="nav nav-second-level">
+								<li>
+									<a href="<?=base_url();?>autores/registrar"><?php echo lang('register'); ?></a>
+								</li>
+								<li>
+									<a href="<?=base_url();?>autores/todosAutores"><?=lang('allAuthors');?></a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="#"><i class="fa fa-quote-right fa-fw"></i> <?=lang('thoughts'); ?><span class="fa arrow"></span></a>
+							<ul class="nav nav-second-level">
+								<li>
+									<a href="<?=base_url();?>pensamentos/registrar"><?=lang('register'); ?></a>
+								</li>
+								<li>
+									<a href="<?=base_url();?>pensamentos/todosPensamentos"><?=lang('allThoughts'); ?></a>
 								</li>
 							</ul>
 						</li>

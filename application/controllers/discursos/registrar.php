@@ -28,6 +28,12 @@ class Registrar extends CI_Controller
 	
 	public function index()
 	{
+		if (!$this->session->userdata('logado')) {
+			
+			redirect('login', 'refresh');
+			
+		}
+		
 		$this->registrar();
 		
 		$this->load->view('base', $this->variaveis());
