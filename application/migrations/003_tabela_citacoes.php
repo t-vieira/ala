@@ -1,24 +1,24 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Migration_Tabela_pensamentos extends CI_Migration
+class Migration_Tabela_citacoes extends CI_Migration
 {
 	public function up()
 	{
 		$this->dbforge->add_field(array(
-			'idPensamento' => array(
+			'idCitacao' => array(
 				'type' => 'INT',
 				'constraint' => 5,
 				'unsigned' => TRUE,
 				'auto_increment' => TRUE,
 			),
-			'textoPensamento' => array(
+			'textoCitacao' => array(
 				'type' => 'TEXT',
 			),
 			'autorId' => array(
 				'type' => 'INT',
 				'constraint' => 5,
 			),
-			'fontePensamento' => array(
+			'fonteCitacao' => array(
 				'type' => 'VARCHAR',
 				'constraint' => 255,
 				'null' => TRUE,
@@ -26,14 +26,14 @@ class Migration_Tabela_pensamentos extends CI_Migration
 			
 		));
 		
-		$this->dbforge->add_key('idPensamento', TRUE);
+		$this->dbforge->add_key('idCitacao', TRUE);
 		
-		$this->dbforge->create_table('Pensamentos');
+		$this->dbforge->create_table('Citacoes');
 	}
 	
 	public function down()
 	{
-		$this->dbforge->drop_table('Pensamentos');
+		$this->dbforge->drop_table('Citacoes');
 	}
 }
 

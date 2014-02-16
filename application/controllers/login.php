@@ -26,7 +26,7 @@ class Login extends CI_Controller
 	{
 		$this->login();
 		
-		$this->load->view('login', $this->variaveis());
+		$this->load->view('login_view', $this->variaveis());
 	}
 	
 	public function login()

@@ -19,7 +19,7 @@ class Todosdiscursantes extends CI_Controller
 	{
 		$data = array();
 		
-		$data['view'] = 'discursos/todosDiscursantes';
+		$data['view'] = 'discursos/todosDiscursantes_view';
 		
 		$data['tdTabelaAntigos'] = $this->todosDiscusantes();
 		

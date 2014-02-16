@@ -23,10 +23,9 @@ class Index extends CI_Controller
 	{
 		$data = array();
 		
-		$data['view'] = 'index';
+		$data['view'] = 'index_view';
 		$data['divUltimosMembros'] = $this->ultimosMembros();
 		$data['divDiscursantesMaisAntigos'] = $this->discursantesMaisAntigos();
-		$data['usuarioSessao'] = $this->session->userdata('logado');
 		
 		return $data;
 	}

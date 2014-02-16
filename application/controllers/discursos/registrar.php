@@ -19,7 +19,7 @@ class Registrar extends CI_Controller
 	{
 		$data = array();
 		
-		$data['view'] = 'discursos/registrar';
+		$data['view'] = 'discursos/registrarDiscurso_view';
 		
 		$data['optionTodosMembros'] = $this->retornarTodosMembros();
 		

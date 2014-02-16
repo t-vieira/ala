@@ -20,8 +20,8 @@ $lang['rantersOldest'] = 'Discursantes Mais Antigos';
 $lang['lastMembersRegistered'] =  '&Uacute;ltimos Membros Registrados';
 $lang['formerRanters'] = 'Discursantes Antigos';
 $lang['allSpeeches'] = 'Todos os Discursantes';
-$lang['thoughts'] = 'Pensamentos';
-$lang['allThoughts'] = 'Todos os Pensamentos';
+$lang['quote'] = 'Cita&ccedil;&otilde;es';
+$lang['allQuote'] = 'Todas as Cita&ccedil;&otilde;es';
 $lang['authors'] = 'Autores';
 $lang['allAuthors'] = 'Todos os Autores';
 

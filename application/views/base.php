@@ -38,7 +38,7 @@
 			<nav class="navbar navbar-default navbar-static-top" style="margin-bottom: 0">
 			
 				<div class="navbar-header">
-					<a class="navbar-brand" href="<?php echo base_url(); ?>"><?php echo lang('controlWard'); ?></a>
+					<a class="navbar-brand" href="<?php echo base_url(); ?>index"><?php echo lang('controlWard'); ?></a>
 				</div>
 				
 				<ul class="nav navbar-top-links navbar-right">
@@ -47,7 +47,7 @@
 							<i class="fa fa-user fa-fw"></i> <i class="fa fa-caret-down"></i>
 						</a>
 						<ul class="dropdown-menu dropdown-user">
-							<li><a href="#"><i class="fa fa-user fa-fw"></i> <?=$usuarioSessao['nomeUsuario']; ?></a></li>
+							<li><a href="#"><i class="fa fa-user fa-fw"></i> <?=$this->session->userdata('logado')['nomeUsuario']; ?></a></li>
 							<li class="divider"></li>
 							<li><a href="<?=base_url();?>login/logout"><i class="fa fa-sign-out fa-fw"></i> Sair</a>
 						</ul>
@@ -60,7 +60,7 @@
 				<div class="sidebar-collapse">
 					<ul class="nav" id="side-menu">
 						<li>
-							<a href="<?php echo base_url(); ?>"><i class="fa fa-dashboard fa-fw"></i> <?php echo lang('dashboard'); ?></a>
+							<a href="<?php echo base_url(); ?>index"><i class="fa fa-dashboard fa-fw"></i> <?php echo lang('dashboard'); ?></a>
 						</li>
 						<li>
 							<a href="#"><i class="fa fa-users fa-fw"></i> <?php echo lang('members'); ?><span class="fa arrow"></span></a>
@@ -102,13 +102,13 @@
 							</ul>
 						</li>
 						<li>
-							<a href="#"><i class="fa fa-quote-right fa-fw"></i> <?=lang('thoughts'); ?><span class="fa arrow"></span></a>
+							<a href="#"><i class="fa fa-quote-right fa-fw"></i> <?=lang('quote'); ?><span class="fa arrow"></span></a>
 							<ul class="nav nav-second-level">
 								<li>
-									<a href="<?=base_url();?>pensamentos/registrar"><?=lang('register'); ?></a>
+									<a href="<?=base_url();?>citacoes/registrar"><?=lang('register'); ?></a>
 								</li>
 								<li>
-									<a href="<?=base_url();?>pensamentos/todosPensamentos"><?=lang('allThoughts'); ?></a>
+									<a href="<?=base_url();?>citacoes/todasCitacoes"><?=lang('allQuote'); ?></a>
 								</li>
 							</ul>
 						</li>

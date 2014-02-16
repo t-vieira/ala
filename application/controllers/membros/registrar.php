@@ -17,7 +17,7 @@ class Registrar extends CI_Controller
 	{
 		$data = array();
 		
-		$data['view'] = 'membros/registrar';
+		$data['view'] = 'membros/registrarMembro_view';
 		
 		return $data;
 	}

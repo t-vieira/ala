@@ -7106,31 +7106,31 @@
 					</treenode>
 				</treenode>
 			</treenode>
-			<treenode node="Login;PHP:Class Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f0;2;1;70;;C:\wamp\www\ala\application\controllers\login.php;f0;2;1;77;;;;vpos;;vCI_Controller;;c;;r;;d0,3;;b0,0;;m">
-				<treenode node="__construct;PHP:Function Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f8;4;2;15;;C:\wamp\www\ala\application\controllers\login.php;f8;4;2;15;;;;vpos;;v;;r;;d1,5;;b1,0;;m">
-					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f2;8;7;8;;C:\wamp\www\ala\application\controllers\login.php;f2;8;7;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="Login;PHP:Class Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f0;2;1;70;;C:\wamp\www\ala\application\controllers\LoginController.php;f0;2;1;77;;C:\wamp\www\ala\application\controllers\Login.php;f0;2;1;77;;C:\wamp\www\ala\application\controllers\login.php;f0;2;1;77;;;;vpos;;vCI_Controller;;c;;r;;d0,3;;b0,0;;m">
+				<treenode node="__construct;PHP:Function Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f8;4;2;15;;C:\wamp\www\ala\application\controllers\LoginController.php;f8;4;2;15;;C:\wamp\www\ala\application\controllers\Login.php;f8;4;2;15;;C:\wamp\www\ala\application\controllers\login.php;f8;4;2;15;;;;vpos;;v;;r;;d1,5;;b1,0;;m">
+					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f2;8;7;8;;C:\wamp\www\ala\application\controllers\LoginController.php;f2;8;7;8;;C:\wamp\www\ala\application\controllers\Login.php;f2;8;7;8;;C:\wamp\www\ala\application\controllers\login.php;f2;8;7;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="index;PHP:Function Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f8;24;2;29;;C:\wamp\www\ala\application\controllers\login.php;f8;24;2;29;;;;vpos;;v;;r;;d1,25;;b1,0;;m">
-					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f2;26;7;26;;C:\wamp\www\ala\application\controllers\login.php;f2;26;7;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="index;PHP:Function Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f8;24;2;29;;C:\wamp\www\ala\application\controllers\LoginController.php;f8;24;2;29;;C:\wamp\www\ala\application\controllers\Login.php;f8;24;2;29;;C:\wamp\www\ala\application\controllers\login.php;f8;24;2;29;;;;vpos;;v;;r;;d1,25;;b1,0;;m">
+					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f2;26;7;26;;C:\wamp\www\ala\application\controllers\LoginController.php;f2;26;7;26;;C:\wamp\www\ala\application\controllers\Login.php;f2;26;7;26;;C:\wamp\www\ala\application\controllers\login.php;f2;26;7;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="login;PHP:Function Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f8;31;2;69;;C:\wamp\www\ala\application\controllers\login.php;f8;31;2;69;;;;vpos;;v;;r;;d1,32;;b1,0;;m">
-					<treenode node="arraySessao;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f4;43;16;43;;C:\wamp\www\ala\application\controllers\login.php;f4;43;16;43;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="login;PHP:Function Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f8;31;2;69;;C:\wamp\www\ala\application\controllers\LoginController.php;f8;31;2;69;;C:\wamp\www\ala\application\controllers\Login.php;f8;31;2;69;;C:\wamp\www\ala\application\controllers\login.php;f8;31;2;69;;;;vpos;;v;;r;;d1,32;;b1,0;;m">
+					<treenode node="arraySessao;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f4;43;16;43;;C:\wamp\www\ala\application\controllers\LoginController.php;f4;43;16;43;;C:\wamp\www\ala\application\controllers\Login.php;f4;43;16;43;;C:\wamp\www\ala\application\controllers\login.php;f4;43;16;43;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="dados;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f23;45;29;45;;C:\wamp\www\ala\application\controllers\login.php;f23;45;29;45;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="dados;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f23;45;29;45;;C:\wamp\www\ala\application\controllers\LoginController.php;f23;45;29;45;;C:\wamp\www\ala\application\controllers\Login.php;f23;45;29;45;;C:\wamp\www\ala\application\controllers\login.php;f23;45;29;45;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="login;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f3;39;9;39;;C:\wamp\www\ala\application\controllers\login.php;f3;39;9;39;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="login;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f3;39;9;39;;C:\wamp\www\ala\application\controllers\LoginController.php;f3;39;9;39;;C:\wamp\www\ala\application\controllers\Login.php;f3;39;9;39;;C:\wamp\www\ala\application\controllers\login.php;f3;39;9;39;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f2;33;7;33;;C:\wamp\www\ala\application\controllers\login.php;f2;33;7;33;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-					</treenode>
-				</treenode>
-				<treenode node="logout;PHP:Function Name;C:\wamp\www\ala\application\controllers\login.php;f8;71;2;76;;;;vpos;;v;;r;;d1,72;;b1,0;;m">
-					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\controllers\login.php;f2;73;7;73;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f2;33;7;33;;C:\wamp\www\ala\application\controllers\LoginController.php;f2;33;7;33;;C:\wamp\www\ala\application\controllers\Login.php;f2;33;7;33;;C:\wamp\www\ala\application\controllers\login.php;f2;33;7;33;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="variaveis;PHP:Function Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f8;17;2;22;;C:\wamp\www\ala\application\controllers\login.php;f8;17;2;22;;;;vpos;;v;;r;;d1,18;;b1,0;;m">
-					<treenode node="data;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f2;19;7;19;;C:\wamp\www\ala\application\controllers\login.php;f2;19;7;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="logout;PHP:Function Name;C:\wamp\www\ala\application\controllers\LoginController.php;f8;71;2;76;;C:\wamp\www\ala\application\controllers\Login.php;f8;71;2;76;;C:\wamp\www\ala\application\controllers\login.php;f8;71;2;76;;;;vpos;;v;;r;;d1,72;;b1,0;;m">
+					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\controllers\LoginController.php;f2;73;7;73;;C:\wamp\www\ala\application\controllers\Login.php;f2;73;7;73;;C:\wamp\www\ala\application\controllers\login.php;f2;73;7;73;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="variaveis;PHP:Function Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f8;17;2;22;;C:\wamp\www\ala\application\controllers\LoginController.php;f8;17;2;22;;C:\wamp\www\ala\application\controllers\Login.php;f8;17;2;22;;C:\wamp\www\ala\application\controllers\login.php;f8;17;2;22;;;;vpos;;v;;r;;d1,18;;b1,0;;m">
+					<treenode node="data;PHP:Var Name;C:\wamp\www\ala\application\controllers\Codelobster0.php;f2;19;7;19;;C:\wamp\www\ala\application\controllers\LoginController.php;f2;19;7;19;;C:\wamp\www\ala\application\controllers\Login.php;f2;19;7;19;;C:\wamp\www\ala\application\controllers\login.php;f2;19;7;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
 			</treenode>
@@ -7174,6 +7174,16 @@
 					</treenode>
 				</treenode>
 			</treenode>
+			<treenode node="Migration_Tabela_citacoes;PHP:Class Name;C:\wamp\www\ala\application\migrations\003_tabela_pensamentos.php;f0;2;1;37;;;;vpos;;vCI_Migration;;c;;r;;d0,3;;b0,0;;m">
+				<treenode node="down;PHP:Function Name;C:\wamp\www\ala\application\migrations\003_tabela_pensamentos.php;f8;33;2;36;;;;vpos;;v;;r;;d1,34;;b1,0;;m">
+					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\migrations\003_tabela_pensamentos.php;f2;35;7;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="up;PHP:Function Name;C:\wamp\www\ala\application\migrations\003_tabela_pensamentos.php;f8;4;2;31;;;;vpos;;v;;r;;d1,5;;b1,0;;m">
+					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\migrations\003_tabela_pensamentos.php;f2;6;7;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+			</treenode>
 			<treenode node="Migration_Tabela_membro;PHP:Class Name;C:\wamp\www\ala\application\migrations\001_tabela_membro.php;f0;4;1;31;;;;vpos;;vCI_Migration;;c;;r;;d0,3;;b0,0;;m">
 				<treenode node="down;PHP:Function Name;C:\wamp\www\ala\application\migrations\001_tabela_membro.php;f8;27;2;30;;C:\wamp\www\ala\application\migrations\Codelobster0.php;f8;25;2;28;;C:\wamp\www\ala\application\migrations\004_tabela_autores.php;f8;25;2;28;;;;vpos;;v;;r;;d1,26;;b1,0;;m">
 					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\migrations\001_tabela_membro.php;f2;29;7;29;;C:\wamp\www\ala\application\migrations\Codelobster0.php;f2;27;7;27;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
@@ -7184,14 +7194,10 @@
 					</treenode>
 				</treenode>
 			</treenode>
-			<treenode node="Migration_Tabela_pensamentos;PHP:Class Name;C:\wamp\www\ala\application\migrations\003_tabela_pensamentos.php;f0;2;1;37;;;;vpos;;vCI_Migration;;c;;r;;d0,3;;b0,0;;m">
-				<treenode node="down;PHP:Function Name;C:\wamp\www\ala\application\migrations\Codelobster0.php;f8;32;2;35;;C:\wamp\www\ala\application\migrations\003_tabela_pensamentos.php;f8;33;2;36;;;;vpos;;v;;r;;d1,34;;b1,0;;m">
-					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\migrations\Codelobster0.php;f2;34;7;34;;C:\wamp\www\ala\application\migrations\003_tabela_pensamentos.php;f2;35;7;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-					</treenode>
+			<treenode node="Migration_Tabela_pensamentos;PHP:Class Name;C:\wamp\www\ala\application\migrations\003_tabela_citacoes.php;f0;2;1;37;;;;vpos;;vCI_Migration;;c;;r;;d0,3;;b0,0;;m">
+				<treenode node="down;PHP:Function Name;C:\wamp\www\ala\application\migrations\003_tabela_citacoes.php;f8;33;2;36;;;;vpos;;v;;r;;d1,34;;b1,0;;m">
 				</treenode>
-				<treenode node="up;PHP:Function Name;C:\wamp\www\ala\application\migrations\Codelobster0.php;f8;4;2;30;;C:\wamp\www\ala\application\migrations\003_tabela_pensamentos.php;f8;4;2;31;;;;vpos;;v;;r;;d1,5;;b1,0;;m">
-					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\migrations\Codelobster0.php;f2;6;7;6;;C:\wamp\www\ala\application\migrations\003_tabela_pensamentos.php;f2;6;7;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-					</treenode>
+				<treenode node="up;PHP:Function Name;C:\wamp\www\ala\application\migrations\003_tabela_citacoes.php;f8;4;2;31;;;;vpos;;v;;r;;d1,5;;b1,0;;m">
 				</treenode>
 			</treenode>
 			<treenode node="Migration_Tabela_usuarios;PHP:Class Name;C:\wamp\www\ala\application\migrations\Codelobster0.php;f0;2;1;37;;;;vpos;;vCI_Migration;;c;;r;;d0,3;;b0,0;;m">
@@ -7204,7 +7210,7 @@
 					</treenode>
 				</treenode>
 			</treenode>
-			<treenode node="MY_Router;PHP:Class Name;C:\wamp\www\ala\application\core\Codelobster0.php;f0;5;1;112;;C:\wamp\www\ala\application\core\MY_Router.php;f0;5;1;112;;;;vpos;;vCI_Router;;c;;r;;d34,5;;b0,0;;m">
+			<treenode node="MY_Router;PHP:Class Name;C:\wamp\www\ala\application\core\Codelobster0.php;f0;5;1;112;;C:\wamp\www\ala\application\core\MY_Router.php;f0;5;1;112;;C:\wamp\www\ala\application\libraries\Codelobster0.php;f0;1;1;22;;;;vpos;;vCI_Router;;c;;r;;d34,1;;b0,0;;m">
 				<treenode node="__construct;PHP:Function Name;C:\wamp\www\ala\application\core\Codelobster0.php;f4;7;5;10;;C:\wamp\www\ala\application\core\MY_Router.php;f4;7;5;10;;;;vpos;;v;;r;;d4,8;;b0,0;;m">
 				</treenode>
 				<treenode node="_validate_request;PHP:Function Name;C:\wamp\www\ala\application\core\Codelobster0.php;f4;12;5;104;;C:\wamp\www\ala\application\core\MY_Router.php;f4;12;5;104;;;;vpos;;v;;r;;d4,13;;b0,0;;msegments;;p">
@@ -7215,11 +7221,25 @@
 					<treenode node="x;PHP:Var Name;C:\wamp\www\ala\application\core\Codelobster0.php;f24;46;26;46;;C:\wamp\www\ala\application\core\MY_Router.php;f24;46;26;46;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
+				<treenode node="controller_name;PHP:Function Name;C:\wamp\www\ala\application\libraries\Codelobster0.php;f4;12;5;21;;;;vpos;;v;;r;;d31,12;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\libraries\Codelobster0.php;f19;14;24;14;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="MY_Router;PHP:Function Name;C:\wamp\www\ala\application\libraries\Codelobster0.php;f4;4;5;6;;;;vpos;;v;;r;;d25,4;;b0,0;;m">
+				</treenode>
+				<treenode node="set_class;PHP:Function Name;C:\wamp\www\ala\application\libraries\Codelobster0.php;f4;8;5;10;;;;vpos;;v;;r;;d31,8;;b0,0;;mclass;;p">
+					<treenode node="class;PHP:Var Name;C:\wamp\www\ala\application\libraries\Codelobster0.php;f23;8;29;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\libraries\Codelobster0.php;f8;9;13;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
 				<treenode node="set_directory;PHP:Function Name;C:\wamp\www\ala\application\core\Codelobster0.php;f4;106;5;110;;C:\wamp\www\ala\application\core\MY_Router.php;f4;106;5;110;;;;vpos;;v;;r;;d4,107;;b0,0;;mdir;;p">
 					<treenode node="dir;PHP:Var Name;C:\wamp\www\ala\application\core\Codelobster0.php;f27;106;31;106;;C:\wamp\www\ala\application\core\MY_Router.php;f27;106;31;106;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\core\Codelobster0.php;f8;109;13;109;;C:\wamp\www\ala\application\core\MY_Router.php;f8;109;13;109;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
+				</treenode>
+				<treenode node="suffix;PHP:Var Name;C:\wamp\www\ala\application\libraries\Codelobster0.php;f8;2;15;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
 			</treenode>
 			<treenode node="Registrar;PHP:Class Name;C:\wamp\www\ala\application\controllers\membros\regitsrar.php;f0;2;1;20;;C:\wamp\www\ala\application\controllers\membros\index.php;f0;2;1;26;;C:\wamp\www\ala\application\controllers\discursos\registrar.php;f0;2;1;112;;C:\wamp\www\ala\application\controllers\membros\registrar.php;f0;2;1;79;;;;vpos;;vCI_Controller;;c;;r;;d0,3;;b0,0;;m">
@@ -8410,23 +8430,23 @@
 			</treenode>
 			<treenode node="autoload;PHP:Var Name;C:\wamp\www\ala\application\config\autoload.php;f0;39;9;39;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="BM;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;114;4;114;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="BM;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;114;4;114;;;;vposobject;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="browsers;PHP:Var Name;C:\wamp\www\ala\application\config\user_agents.php;f0;49;9;49;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="CFG;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;137;5;137;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="CFG;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;137;5;137;;;;vposobject;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="CI;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;307;4;307;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="CI;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;307;4;307;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="class;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;263;7;263;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="class;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;263;7;263;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="config;PHP:Var Name;C:\wamp\www\ala\application\config\migration.php;f0;10;7;10;;C:\wamp\www\ala\application\config\config.php;f0;16;7;16;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="config;PHP:Var Name;C:\wamp\www\ala\application\config\config.php;f0;16;7;16;;C:\wamp\www\ala\application\config\migration.php;f0;10;7;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="db;PHP:Var Name;C:\wamp\www\ala\application\config\database.php;f0;50;3;50;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="divDiscursantesMaisAntigos;PHP:Var Name;C:\wamp\www\ala\application\views\discursos\discursantes.php;f16;12;43;12;;C:\wamp\www\ala\application\views\discursos\discursantesAntigos.php;f16;13;43;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="EXT;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;123;5;123;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="EXT;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;123;5;123;;;;vposobject;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="filepath;PHP:Var Name;C:\wamp\www\ala\application\errors\error_php.php;f24;6;33;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
@@ -8434,17 +8454,17 @@
 			</treenode>
 			<treenode node="heading;PHP:Var Name;C:\wamp\www\ala\application\errors\error_general.php;f17;57;25;57;;C:\wamp\www\ala\application\errors\error_db.php;f17;57;25;57;;C:\wamp\www\ala\application\errors\error_404.php;f17;57;25;57;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="IN;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;212;4;212;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="IN;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;212;4;212;;;;vposobject;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="lang;PHP:Var Name;C:\wamp\www\ala\system\language\english\upload_lang.php;f0;2;5;2;;C:\wamp\www\ala\system\language\english\unit_test_lang.php;f0;2;5;2;;C:\wamp\www\ala\system\language\english\profiler_lang.php;f0;2;5;2;;C:\wamp\www\ala\system\language\english\number_lang.php;f0;2;5;2;;C:\wamp\www\ala\system\language\english\migration_lang.php;f0;2;5;2;;C:\wamp\www\ala\system\language\english\imglib_lang.php;f0;2;5;2;;C:\wamp\www\ala\system\language\english\ftp_lang.php;f0;2;5;2;;C:\wamp\www\ala\system\language\english\form_validation_lang.php;f0;2;5;2;;C:\wamp\www\ala\system\language\english\email_lang.php;f0;2;5;2;;C:\wamp\www\ala\system\language\english\db_lang.php;f0;2;5;2;;C:\wamp\www\ala\system\language\english\date_lang.php;f0;2;5;2;;C:\wamp\www\ala\system\language\english\calendar_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\upload_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\unit_test_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\profiler_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\migration_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\imglib_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\ftp_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\form_validation_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\email_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\db_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\date_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\calendar_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\number_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\Codelobster0.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\mensagem_lang.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\systemAla.php;f0;2;5;2;;C:\wamp\www\ala\application\language\portuguese-br\systemAla_lang.php;f0;3;5;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="LANG;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;219;6;219;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="LANG;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;219;6;219;;;;vposobject;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="line;PHP:Var Name;C:\wamp\www\ala\application\errors\error_php.php;f27;7;32;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="message;PHP:Var Name;C:\wamp\www\ala\application\errors\error_php.php;f24;5;32;5;;C:\wamp\www\ala\application\errors\error_general.php;f13;58;21;58;;C:\wamp\www\ala\application\errors\error_db.php;f13;58;21;58;;C:\wamp\www\ala\application\errors\error_404.php;f13;58;21;58;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="method;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;264;8;264;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="method;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;264;8;264;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="mimes;PHP:Var Name;C:\wamp\www\ala\application\config\mimes.php;f0;10;6;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
@@ -8452,7 +8472,7 @@
 			</treenode>
 			<treenode node="optionTodosMembros;PHP:Var Name;C:\wamp\www\ala\application\views\discursos\registrar.php;f20;21;39;21;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="OUT;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;185;5;185;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="OUT;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;185;5;185;;;;vposobject;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="platforms;PHP:Var Name;C:\wamp\www\ala\application\config\user_agents.php;f0;12;10;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
@@ -8462,9 +8482,9 @@
 			</treenode>
 			<treenode node="routing;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f11;175;19;175;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="RTR;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;171;5;171;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="RTR;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;171;5;171;;;;vposobject;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="SEC;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;205;5;205;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="SEC;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;205;5;205;;;;vposobject;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="severity;PHP:Var Name;C:\wamp\www\ala\application\errors\error_php.php;f24;4;33;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
@@ -8474,17 +8494,17 @@
 			</treenode>
 			<treenode node="tdTabelaAntigos;PHP:Var Name;C:\wamp\www\ala\application\views\discursos\todosDiscursantes.php;f18;22;34;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\views\membros\registrar.php;f14;12;19;12;;C:\wamp\www\ala\application\views\discursos\discursantes.php;f14;16;19;16;;C:\wamp\www\ala\application\views\discursos\discursantesAntigos.php;f16;17;21;17;;C:\wamp\www\ala\application\views\discursos\registrar.php;f14;12;19;12;;C:\wamp\www\ala\application\views\Codelobster0.php;f17;22;22;22;;C:\wamp\www\ala\application\views\base.php;f11;122;16;122;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="this;PHP:Var Name;C:\wamp\www\ala\application\views\membros\registrar.php;f14;12;19;12;;C:\wamp\www\ala\application\views\discursos\discursantes.php;f14;16;19;16;;C:\wamp\www\ala\application\views\discursos\discursantesAntigos.php;f16;17;21;17;;C:\wamp\www\ala\application\views\discursos\registrar.php;f14;12;19;12;;C:\wamp\www\ala\application\views\Codelobster0.php;f17;22;22;22;;C:\wamp\www\ala\application\views\base.php;f11;122;16;122;;C:\wamp\www\ala\application\views\login.php;f17;22;22;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="UNI;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;157;5;157;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="UNI;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;157;5;157;;;;vposobject;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="URI;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;164;5;164;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="URI;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f1;164;5;164;;;;vposobject;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="usuarioSessao;PHP:Var Name;C:\wamp\www\ala\application\views\base.php;f59;49;73;49;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="view;PHP:Var Name;C:\wamp\www\ala\application\views\base.php;f29;122;34;122;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="x;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f3;273;5;273;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="x;PHP:Var Name;C:\wamp\www\ala\system\core\CodeIgniter.php;f3;273;5;273;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 		</phptree>
 		<jstree>
@@ -25695,9 +25715,10 @@
 		<file name="C:\wamp\www\ala\application\models\discursos_model.php" crc="-642998251"/>
 		<file name="C:\wamp\www\ala\application\migrations\005_tabela_usuarios.php" crc="1183421489"/>
 		<file name="C:\wamp\www\ala\application\migrations\004_tabela_autores.php" crc="-1875106511"/>
-		<file name="C:\wamp\www\ala\application\migrations\003_tabela_pensamentos.php" crc="2119447494"/>
+		<file name="C:\wamp\www\ala\application\migrations\003_tabela_citacoes.php" crc="-211287542"/>
 		<file name="C:\wamp\www\ala\application\migrations\002_tabela_discursos.php" crc="-399937566"/>
 		<file name="C:\wamp\www\ala\application\migrations\001_tabela_membro.php" crc="-243183705"/>
+		<file name="C:\wamp\www\ala\application\libraries\MY_Router.php" crc="568440806"/>
 		<file name="C:\wamp\www\ala\application\language\portuguese-br\upload_lang.php" crc="-1636775331"/>
 		<file name="C:\wamp\www\ala\application\language\portuguese-br\unit_test_lang.php" crc="-1210992986"/>
 		<file name="C:\wamp\www\ala\application\language\portuguese-br\systemAla_lang.php" crc="1084868920"/>

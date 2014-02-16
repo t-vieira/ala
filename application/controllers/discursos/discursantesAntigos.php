@@ -19,7 +19,7 @@ class Discursantesantigos extends CI_Controller
 	{
 		$data = array();
 		
-		$data['view'] = 'discursos/discursantesAntigos';
+		$data['view'] = 'discursos/discursantesAntigos_view';
 		$data['divDiscursantesMaisAntigos'] = $this->pagina();
 		
 		return $data;
